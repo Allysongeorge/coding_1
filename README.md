@@ -5,4 +5,4 @@ atualizando read me
 Aprendendo a pesquisar 
 criando repositorio
 Aprendendo o começo do Markdown
-aprendendo a criar um codespace
+aprendendo a criar um codespace (um ambiente que usa Vscode)
