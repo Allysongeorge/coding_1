@@ -18,17 +18,18 @@ console.log(`Olá, meu nome é ${nome} e tenho ${idade} anos.`);
 //● Armazene as informações do tipo String em variáveis e imprima uma mensagem
 //personalizada, como: "[Nome] é de [cidade].
 
-/*const cidade = "Ilha de itamaracá"
-const nome = "Allyson"
+/*const cidade = prompt("Você mora em que cidade? ")
+const nome = prompt("Qual é o seu nome? ")
 console.log(`${nome} é de ${cidade}`)
 */
+
 
 //Crie um programa que:
 //● Declare duas variáveis numéricas: num1 e num2.
 //● Realize as quatro operações básicas(+, -, *, /), e imprima os resultados.
 
-/*const num2 = 2
-const num1 = 10
+const num1 = prompt("Digite o primeiro numero: ")
+const num2 = prompt("Digite o segundo numero: ")
 const soma = num1 + num2
 const sub = num1 - num2
 const mult = num1 * num2
@@ -37,7 +38,7 @@ console.log(`A soma de 10 com 2 dá = ${soma}`)
 console.log(`A subtração de 10 com 2 dá = ${sub}`)
 console.log(`A multiplicação de 10 com 2 dá = ${mult}`)
 console.log(`A divisão de 10 com 2 dá = ${div}`)
-*/
+
 
 //Cálculo de Área:
 //● Declare duas variáveis numéricas: base e altura.
