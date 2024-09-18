@@ -1,0 +1,16 @@
+{
+  "name": "coding_1",
+  "version": "1.0.0",
+  "description": "Criar github Aprendendo o começo do Markdown atualizando read me Aprendendo a pesquisar  criando repositorio Aprendendo o começo do Markdown aprendendo a criar um codespace (um ambiente que usa Vscode) aprendendo a mudar o tema  Aprendendo a criar arquivo .js no vscode",
+  "main": "aula.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^22.8.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
