@@ -68,14 +68,13 @@ Declare variáveis para representar: seu nome, idade, altura e se está matricul
 Exiba no console o tipo de cada uma usando typeof.
 
 Exercicio
-// Declarando as variáveis com valores fictícios
-let meuNome = "Seu Nome Aqui";
-let idade = 30;
-let altura = 1.75;
+let nome = "Allyson";
+let idade = 19;
+let altura = 1.81
 let matriculado = true;
 
 // Exibindo as variáveis e seus tipos no console
-console.log("Meu nome é:", meuNome, "e meu tipo é:", typeof meuNome);
+console.log("Meu nome é:", nome, "e meu tipo é:", typeof nome);
 console.log("Minha idade é:", idade, "e meu tipo é:", typeof idade);
 console.log("Minha altura é:", altura, "e meu tipo é:", typeof altura);
 console.log("Estou matriculado neste curso:", matriculado, "e meu tipo é:", typeof matriculado);
