@@ -100,8 +100,7 @@ Divisão: /
 Resto (módulo): %
 Exemplo:
 
-javascript
-Copiar código
+
 let a = 10;
 let b = 3;
 console.log(a + b); // 13
@@ -117,8 +116,7 @@ Maior ou igual: >=
 Menor ou igual: <=
 Exemplo:
 
-javascript
-Copiar código
+
 console.log(5 == "5");  // true (compara valor)
 console.log(5 === "5"); // false (compara valor e tipo)
 3. Operadores Lógicos
@@ -129,8 +127,7 @@ Ou (OR): ||
 Não (NOT): !
 Exemplo:
 
-javascript
-Copiar código
+
 let idade = 20;
 console.log(idade > 18 && idade < 30); // true
 console.log(idade > 18 || idade > 30); // true
